@@ -1,4 +1,4 @@
-# spring-m2-template
-Spring Project Template
+# Java Reflection Api
+from Spring Project Template
 
 - m2 Database
